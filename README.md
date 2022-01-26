@@ -8,7 +8,11 @@
   <br/>
 </p>
 
- <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevcalderon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
- <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevcalderon&layout=compact&langs_count=8&theme=algolia" />
+<p <p align="center" dir="auto">
+  <a href="https://github.com/kevcalderon">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevcalderon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevcalderon&layout=compact&langs_count=8&theme=algolia" />
+  </a>
+</p>
 
 
