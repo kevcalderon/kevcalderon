@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi!  <img src="https://uploads.collectcdn.com/5f2e6f86b5c5c13ae7811b11-1596995909250.gif" width="30px" height="30px"/>
 
-<!--
-**kevcalderon/kevcalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" >
+  <samp>
+    My name is Kevin Calderón. I am a systems engineering student. 
+  </samp>
+  <br/>
+  <br/>
+</p>
 
-Here are some ideas to get you started:
+ <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevcalderon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+ <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevcalderon&layout=compact&langs_count=8&theme=algolia" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
